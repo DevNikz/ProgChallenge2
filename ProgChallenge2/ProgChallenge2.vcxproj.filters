@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="ProgChallenge2.cpp">
+    <ClCompile Include="Forces.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

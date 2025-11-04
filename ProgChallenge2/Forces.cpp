@@ -48,7 +48,6 @@ int main()
         std::cout << "Time: " << currentTime << " Seconds" << std::endl;
         std::cout << "At = (" << x << ", " << y << ")" << std::endl;
         std::cout << "Velocity = (" << vx << ", " << vy << ")" << std::endl << std::endl;
-        
 
         std::cout << std::fixed << std::setprecision(3);
 
